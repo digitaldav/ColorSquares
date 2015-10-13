@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 214fa3a69593d564887444e4e6293e9a
+timeCreated: 1443441147
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - redSquare: {fileID: 144574, guid: 1e9732fd030f89c4eb25446f479b6c6a, type: 2}
+  - blueSquare: {fileID: 182572, guid: a50d7a36409e73940884b4dec0e9105d, type: 2}
+  - greenSquare: {fileID: 113496, guid: 92cb0182b654163468e8e2f16dc4b507, type: 2}
+  - yellowSquare: {fileID: 180738, guid: 2fd91c77309dbd141ae00357b044257d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
